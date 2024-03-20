@@ -8,3 +8,4 @@ pgvector
 asyncpg 
 sqlalchemy[asyncio]
 greenlet
+huggingface_hub

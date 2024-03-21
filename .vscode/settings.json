@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "~/anaconda3/envs/rag-from-scratch"
+    ]
+}
